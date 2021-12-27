@@ -24,7 +24,7 @@ body {
 
 .card {
     width: 326px;
-    height: 590px;
+    height: 600px;
     background: #242628;
     border-radius: 10px;
     margin: 0px 30px;
@@ -150,7 +150,7 @@ body {
     margin-top: 4px;
     font-size: 14px;
     text-align: left;
-    padding-left: 15px ;
+    padding-left: 10px ;
 
 }
 .card__payment p{
