@@ -3,6 +3,11 @@
     margin: 0;
     box-sizing: border-box;
 }
+.checkmark{
+    font-size: 16px;
+    color:blue;
+    margin-bottom: 0px;
+}
 
 :root {
     --pink-color: #f2726a;
@@ -26,6 +31,7 @@ body {
     text-align: center;
     overflow: hidden;
     color: #ffff;
+    border: 1px solid var(--pink-color);
 }
 
 .card__image {
@@ -55,6 +61,7 @@ body {
 .card__job {
     color: var(--pink-color);
     margin: 10px 0px;
+    font-style: italic;
 
 }
 
@@ -84,7 +91,7 @@ body {
 .card__payment-title button {
     outline: none;
     border: none;
-    padding: 10px 20px;
+    padding: 8px 16px;
     background: transparent;
     color: #ffff;
     border-radius: 10px;
