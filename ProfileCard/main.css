@@ -142,7 +142,7 @@ body {
     margin-top: 4px;
     font-size: 14px;
     text-align: left;
-    padding-left: 12px ;
+    padding-left: 10px ;
     border-left: 2px solid var(--pink-color) ;
     color: #cea469;
 }
@@ -177,7 +177,7 @@ body {
     /* padding: 5px; */
 }
 .card__payment:hover .payment__images {
-    width:68px;
-    height: 68px;
+    width:64px;
+    height: 64px;
     margin-right: 16px ;
 }
